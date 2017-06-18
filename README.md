@@ -13,5 +13,7 @@ A simple web-app by using Node.js and mongodb.
 :  实在是简陋啊 = = 
 :  特殊字符无法处理，使用encodeURIComponent解决了的大部分特殊字符，目前发现单独地输入“-”和“.”还是无法正常删除。
 
-##欢迎交流
+
+-----------
+## 欢迎交流
 **QQ:584927688**
